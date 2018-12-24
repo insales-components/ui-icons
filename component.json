@@ -1,0 +1,13 @@
+{
+  "name": "ui-icons",
+  "version": "1.0.0",
+  "description": "Стили иконок",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/ui-icons",
+  "props": {
+    "common": false,
+    "liquid": false
+  },
+  "dependencies": {}
+}
